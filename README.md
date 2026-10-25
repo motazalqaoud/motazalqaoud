@@ -6,7 +6,7 @@ I'm a biomedical engineer in AI for healthcare. I believe the real promise of AI
 
 ### Expertise
 
-- **Medical imaging.** Segmentation and registration across Medical image modalities (MRI, CT, X-ray, and ultrasound.
+- **Medical imaging.** Segmentation and registration across Medical image modalities (MRI, CT, X-ray, and ultrasound).
 - **Surgical navigation and treatment planning.** Image-guided surgery and patient-specific planning, from preoperative imaging to the operating room.
 - **Simulation and modeling.** Finite-element modeling and analysis of tissue, combined with AI to keep the accuracy of physics-based simulation at the speed clinical use demands.
 - **Clinical decision support.** Diagnostic, treatment and follow-up support tools, including language-model systems that cite their evidence and decline when they should.
