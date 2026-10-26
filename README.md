@@ -46,4 +46,4 @@ All publications on [Google Scholar](https://scholar.google.com/citations?user=j
 - **[motazalqaoud.com](https://motazalqaoud.com)**: projects, research and background in one place.
 - **[Hugging Face](https://huggingface.co/motazalqaoud)**: models and live demos.
 
-<sub>Personal projects, built with public data and tools. Views are my own, not my employer's.</sub>
+<sub>Personal projects, built with public data and tools. They do not represent my employer.</sub>
