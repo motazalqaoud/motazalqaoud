@@ -42,7 +42,7 @@ All publications on [Google Scholar](https://scholar.google.com/citations?user=j
 
 ### Read more
 
-- **Second Opinion**: a newsletter on the evidence behind AI in healthcare, every two weeks on LinkedIn.
+- **[Inside Medical AI](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7520316835859423232)**: my newsletter on how AI is shaping the care we receive, in simple language. A new issue every two weeks on LinkedIn. [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7520316835859423232).
 - **[motazalqaoud.com](https://motazalqaoud.com)**: projects, research and background in one place.
 - **[Hugging Face](https://huggingface.co/motazalqaoud)**: models and live demos.
 
