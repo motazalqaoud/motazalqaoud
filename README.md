@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Motaz Alqaoud — AI for healthcare: integrating AI into healthcare, personalized treatment" width="100%">
 </p>
 
-I'm a biomedical engineer in AI for healthcare. I believe the real promise of AI in medicine is personalization: care shaped around each patient's own anatomy, data and course of treatment, rather than around the average patient. My aim is to help move AI from research into tools that clinicians trust and that make a real difference for patients.
+I’m an AI/ML engineer with biomedical engineering background working on AI integration for healthcare. I believe the real promise of AI in medicine is personalization: care shaped around each patient's own anatomy, data and course of treatment, rather than around the average patient. My aim is to help move AI from research into tools that clinicians trust and that make a real difference for patients.
 
 ### Expertise
 
